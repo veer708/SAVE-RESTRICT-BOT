@@ -79,7 +79,6 @@ docker run -d --env-file .env rexbots-save-content
 *   `/help` - Get help information
 *   `/login` - Login to your account
 *   `/logout` - Logout from your account
-*   `/batch` - Bulk save messages
 *   `/cancel` - Cancel ongoing batch process
 *   `/settings` - Open settings menu
 *   `/myplan` - Check your current plan status
