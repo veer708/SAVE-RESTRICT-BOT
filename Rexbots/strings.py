@@ -86,7 +86,7 @@ View premium plan details and pricing.
 <b>🛠 𝐀𝐝𝐦𝐢𝐧 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬</b>
 # Rexbots
 # Don't Remove Credit
-# Telegram Channel @RexBots_Official
+# Telegram Channel @LUcky_y2
 
 <blockquote><b>🚫 /ban</b>
 Ban a user from using the bot.
