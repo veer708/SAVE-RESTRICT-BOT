@@ -36,7 +36,7 @@ async def myplan(client: Client, message: Message):
 @Client.on_message(filters.command("premium") & filters.private)
 async def buy_premium(client: Client, message: Message):
     text = (
-        "**💎 RexBots Premium Plans**\n\n"
+        "**💎 Premium Plans**\n\n"
         "• **Fastest Download Speed**\n"
         "• **Priority Support**\n"
         "• **No Cooldowns**\n"
@@ -44,7 +44,7 @@ async def buy_premium(client: Client, message: Message):
         "**💲 Pricing:**\n"
         "• 1 Month: $5\n"
         "• 1 Year: $40\n\n"
-        "**Contact Admin to Buy:** @RexBots_Official"
+        "**Contact Admin to Buy:** @Lucky_y2"
     )
     await message.reply_text(text)
 
