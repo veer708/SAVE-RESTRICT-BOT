@@ -84,9 +84,9 @@ View premium plan details and pricing.
 <i>Usage: /premium</i></blockquote>
 
 <b>🛠 𝐀𝐝𝐦𝐢𝐧 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬</b>
-# Rexbots
+# Lucky
 # Don't Remove Credit
-# Telegram Channel @LUcky_y2
+# Telegram Channel https://t.me/+00WJNYJVl2ExNjZl
 
 <blockquote><b>🚫 /ban</b>
 Ban a user from using the bot.
