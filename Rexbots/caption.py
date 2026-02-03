@@ -11,7 +11,7 @@ from config import ERROR_MESSAGE
 @Client.on_message(filters.command("set_caption") & filters.private)
 async def set_caption(client: Client, message: Message):
     if len(message.command) < 2:
-        return await message.reply_text("**__Give me a caption to set.__**\n\nExample: `/set_caption File from @RexBots_Official`")
+        return await message.reply_text("**__Give me a caption to set.__**\n\nExample: `/set_caption File from @Lucky_y2`")
     
     caption = message.text.split(" ", 1)[1]
     await db.set_caption(message.from_user.id, caption)
