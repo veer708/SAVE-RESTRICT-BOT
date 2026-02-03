@@ -193,7 +193,7 @@ async def send_start(client: Client, message: Message):
         chat_id=message.chat.id,
         text=(
             f"<blockquote><b>👋 Welcome {message.from_user.mention}!</b></blockquote>\n\n"
-            "<b>I am the Advanced Save Restricted Content Bot by RexBots.</b>\n\n"
+            "<b>I am the Advanced Save Restricted Content Bot.</b>\n\n"
             "<blockquote><b>🚀 What I Can Do:</b>\n"
             "<b>‣ Save Restricted Post (Text, Media, Files)</b>\n"
             "<b>‣ Support Private & Public Channels</b>\n"
